@@ -1,4 +1,5 @@
 Documentação do Programa de Cotações de Moedas
+
 Este programa em Python permite que o usuário visualize as cotações de Dólar, Euro e Bitcoin em relação ao Real (BRL). Ele utiliza a biblioteca tkinter para criar uma interface gráfica simples onde o usuário pode escolher a moeda desejada e clicar em um botão para ver a cotação atualizada.
 
 Módulos
