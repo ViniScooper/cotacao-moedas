@@ -1,5 +1,12 @@
 Documentação do Programa de Cotações de Moedas
 
+
+
+![projetocoin](https://github.com/ViniScooper/cotacao-moedas/assets/93687902/6b879bde-3ea5-4b26-a7ff-53f6cefba2dc)
+
+
+
+
 Este programa em Python permite que o usuário visualize as cotações de Dólar, Euro e Bitcoin em relação ao Real (BRL). Ele utiliza a biblioteca tkinter para criar uma interface gráfica simples onde o usuário pode escolher a moeda desejada e clicar em um botão para ver a cotação atualizada.
 
 Módulos
@@ -22,3 +29,7 @@ nome_label: Rótulo para exibir o nome da moeda escolhida.
 valor_label: Rótulo para exibir o valor da moeda escolhida.
 em inicio.py
 dolar, euro, bitcoin: Variáveis que armazenam as cotações individuais de Dólar, Euro e Bitcoin, respectivamente.
+
+
+
+
